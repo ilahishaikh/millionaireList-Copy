@@ -17,7 +17,7 @@
     "@react-native-community/slider": "^2.0.8",
     "add": "^2.0.6",
     "array-unique": "^0.3.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.13.8",
     "react": "16.9.0",
     "react-native": "0.61.4",
